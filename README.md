@@ -1,4 +1,4 @@
-# Bit-Bots Ball Localization Challenge 2018
+# Hamburg Bit-Bots Ball Localization Challenge 2018
 
 ### Challenge
 
